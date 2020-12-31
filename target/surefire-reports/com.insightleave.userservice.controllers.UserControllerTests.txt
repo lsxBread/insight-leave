@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.insightleave.userservice.controllers.UserControllerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.624 s <<< FAILURE! - in com.insightleave.userservice.controllers.UserControllerTests
+shouldReturnAllUsers  Time elapsed: 0.03 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'org.mockito.mock.MockCreationSettings org.mockito.MockingDetails.getMockCreationSettings()'
+

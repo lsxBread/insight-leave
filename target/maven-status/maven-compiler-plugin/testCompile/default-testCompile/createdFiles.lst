@@ -1,0 +1,5 @@
+com/insightleave/userservice/UserServiceApplicationTests.class
+com/insightleave/userservice/controllers/UserControllerTests.class
+com/insightleave/userservice/mappers/UserMapperTests.class
+com/insightleave/userservice/repositories/UserRepositoryTests.class
+com/insightleave/userservice/services/UserServiceTests.class
